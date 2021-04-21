@@ -1,4 +1,4 @@
-# NgHangman
+# Angular Hangman Game 
 [Demo](https://radgra.github.io/ng_hangman/)
 
 
